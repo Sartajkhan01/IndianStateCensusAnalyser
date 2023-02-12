@@ -1,0 +1,17 @@
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.csproj.AssemblyReference.cache
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.AssemblyInfoInputs.cache
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.AssemblyInfo.cs
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.csproj.CoreCompileInputs.cache
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\bin\Debug\net6.0\CensusAnalyzerProg.exe
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\bin\Debug\net6.0\CensusAnalyzerProg.deps.json
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\bin\Debug\net6.0\CensusAnalyzerProg.runtimeconfig.json
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\bin\Debug\net6.0\CensusAnalyzerProg.dll
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\bin\Debug\net6.0\CensusAnalyzerProg.pdb
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.csproj.CopyComplete
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.dll
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\refint\CensusAnalyzerProg.dll
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.pdb
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\CensusAnalyzerProg.genruntimeconfig.cache
+C:\Users\Sartaj khan\source\repos\CensusAnalyser\obj\Debug\net6.0\ref\CensusAnalyzerProg.dll
